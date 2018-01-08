@@ -36,6 +36,8 @@ Links and references useful for data science.
    * [Python Machine Learning Example: Linear Regression](http://devarea.com/python-machine-learning-example-linear-regression/)
        * Complete example of Linear Regression in Python/Pandas.
    * [Machine Learning Regression of 911 Calls](http://machinelearningexp.com/machine-learning-regression-911-calls/)
+   * [Instal IRKernel for Jupyter Notebooks](https://www.datacamp.com/community/blog/jupyter-notebook-r)
+       * Best installation instructions I've found thus far.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
