@@ -7,8 +7,7 @@ Links and references useful for data science.
 
 ## Libraries (Python)
    * [Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-      * The current standard for data frames in Python.
-      
+      * The current standard for data frames in Python.   
    * [Yellobrick](http://www.scikit-yb.org/en/latest/index.html)
       * "Visualizers" to allow for human-steering of the model selection process.
 
