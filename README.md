@@ -56,6 +56,7 @@ Links and references useful for data science.
    * [Applying Bayes Therorem: Simulating the Monty Hall Problem with Python](https://medium.com/@NickDoesData/applying-bayes-theorem-simulating-the-monty-hall-problem-with-python-5054976d1fb5)
        * Simulation of "Monty Hall Problem" in Python with decent explainations.
    * [Fast.AI Deep Learning Course](http://course.fast.ai/lessons/lesson1.html)
+   * [Machine Learning Tasks for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
        
  ## To Find Resources To Show
    * How to fix Heteroskedasticity
