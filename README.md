@@ -29,10 +29,14 @@ Links and references useful for data science.
 ## How To (Python)
    * [Simulating Chutes & Ladders in Python](https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_162)
        * Very thorough introduction to simulation, Markov Chains, entropy for the board game in Python/Jupyter.
+   * [Simple/Multiple Linear Regression Tutorial](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+       * Complete tutorial of linear regression in `SKlearn`.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
        * One of the better tutorials of Linear Regression (with code).
+   * [Gradient Descent](http://www.machinegurning.com/rstats/gradient-descent/)
+       * Intuitive tutorial on Gradient Descent algorithm p(with code).
        
 ## To Read / Categorize
    * [Understanding Empirical Bayes Estimation (Using Baseball Statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)
