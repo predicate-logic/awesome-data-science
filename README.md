@@ -12,7 +12,7 @@ Links and references useful for data science.
       * "Visualizers" to allow for human-steering of the model selection process.
 
 ## Forecasting (Python)
-   * [Forecasting Website Traffic using Facebook's Prophet] (http://pbpython.com/prophet-overview.html)
+   * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
    
 ## Visualization
    * [So You Want to Build a Scroller](http://vallandingham.me/scroller.html)
