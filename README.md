@@ -12,6 +12,10 @@ Links and references useful for data science.
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
       * Really great D3 presentation on the algorithms and data science process used at StitchFix.
+
+## References
+   * [Cross Validated](https://stats.stackexchange.com/)
+      * User answered question site related to Statistics, Machine Learning, and Data Analytics.
       
 ## How To (Python)
    * [Simulating Chutes & Ladders in Python](https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_162)
@@ -23,5 +27,19 @@ Links and references useful for data science.
    * [Understanding Beta Distributions (Using Baseball Statistics)](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)
        * Same author as above but analysis introduces and uses Beta distributions.
        * The [post](https://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution/47782#47782) that started it all.
+   * [Introductory Econometrics](http://www3.wabash.edu/econometrics/EconometricsBook/index.htm)
+       * Online Excel examples from textbook (includes discussions of Monte Carlo simulations and Heteroskedasticity).
+       
+ ## To Find Resources To Show
+    * How to fix Heteroskedasticity
+    * " " " Collinearity
+    * F-Scores
+    * ROC-AUC
+    * p Test
+    * Linear Regression
+    * Logistic Regression
+    * CART (Random Forest)
+    * Gradient Decent
+    * Bias vs. Varience Tradeoff
    
 
