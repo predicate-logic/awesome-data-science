@@ -12,5 +12,16 @@ Links and references useful for data science.
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
       * Really great D3 presentation on the algorithms and data science process used at StitchFix.
+      
+## How To (Python)
+   * [Simulating Chutes & Ladders in Python](https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_162)
+       * Very thorough introduction to simulation, Markov Chains, entropy for the board game in Python/Jupyter.
+       
+## To Read / Categorize
+   * [Understanding Empirical Bayes Estimation (Using Baseball Statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)
+      * Using Bayesian priors to assist in estmiation of batting averages in R.
+   * [Understanding Beta Distributions (Using Baseball Statistics)](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)
+       * Same author as above but analysis introduces and uses Beta distributions.
+       * The [post](https://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution/47782#47782) that started it all.
    
 
