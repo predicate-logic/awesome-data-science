@@ -33,6 +33,8 @@ Links and references useful for data science.
        * Very thorough introduction to simulation, Markov Chains, entropy for the board game in Python/Jupyter.
    * [Simple/Multiple Linear Regression Tutorial](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
        * Complete tutorial of linear regression in `SKlearn`.
+   * [Python Machine Learning Example: Linear Regression](http://devarea.com/python-machine-learning-example-linear-regression/)
+       * Complete example of Linear Regression in Python/Pandas.
    * [Machine Learning Regression of 911 Calls](http://machinelearningexp.com/machine-learning-regression-911-calls/)
        
 ## How To (R)
