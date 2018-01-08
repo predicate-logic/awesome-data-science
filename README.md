@@ -31,15 +31,17 @@ Links and references useful for data science.
        * Online Excel examples from textbook (includes discussions of Monte Carlo simulations and Heteroskedasticity).
        
  ## To Find Resources To Show
-    * How to fix Heteroskedasticity
-    * " " " Collinearity
-    * F-Scores
-    * ROC-AUC
-    * p Test
-    * Linear Regression
-    * Logistic Regression
-    * CART (Random Forest)
-    * Gradient Decent
-    * Bias vs. Varience Tradeoff
+   * How to fix Heteroskedasticity
+   * " " " Collinearity
+   * F-Scores
+   * ROC-AUC
+   * p Test
+   * Linear Regression
+   * Logistic Regression
+   * CART (Random Forest)
+   * Gradient Decent
+   * Bias vs. Varience Tradeoff
+   * Binomial Distribution (discrete)
+   * Poisson Distribution (continuous)
    
 
