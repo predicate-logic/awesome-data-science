@@ -1,4 +1,4 @@
-# awesome-data-science
+# Awesome Data Science
 Links and references useful for data science.
 
 ## General / Introduction
