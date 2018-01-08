@@ -11,6 +11,9 @@ Links and references useful for data science.
    * [Yellobrick](http://www.scikit-yb.org/en/latest/index.html)
       * "Visualizers" to allow for human-steering of the model selection process.
 
+## Forecasting (Python)
+   * [Forecasting Website Traffic using Facebook's Prophet] (http://pbpython.com/prophet-overview.html)
+   
 ## Visualization
    * [So You Want to Build a Scroller](http://vallandingham.me/scroller.html)
       * Example code on how to put together a web-based animated scrolling presentation.
