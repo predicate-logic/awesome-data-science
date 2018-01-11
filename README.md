@@ -10,6 +10,8 @@ Links and references useful for data science.
       * The current standard for data frames in Python.   
    * [Yellobrick](http://www.scikit-yb.org/en/latest/index.html)
       * "Visualizers" to allow for human-steering of the model selection process.
+   * [Borata](https://github.com/scikit-learn-contrib/boruta_py)
+      * Finds a maximal subset of information carrying features in a data set.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
