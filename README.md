@@ -12,6 +12,8 @@ Links and references useful for data science.
       * "Visualizers" to allow for human-steering of the model selection process.
    * [Borata](https://github.com/scikit-learn-contrib/boruta_py)
       * Finds a maximal subset of information carrying features in a data set.
+   * [Featuretools](https://github.com/Featuretools/featuretools)
+      * Automated feature engineering library.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
