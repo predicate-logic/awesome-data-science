@@ -59,6 +59,8 @@ Links and references useful for data science.
        * Simulation of "Monty Hall Problem" in Python with decent explainations.
    * [Fast.AI Deep Learning Course](http://course.fast.ai/lessons/lesson1.html)
    * [Machine Learning Tasks for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+   * [Deep Learning: From Image to Webpage](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+       * Learn how to write a Deep Learning model to code a webpage from a source image. 
        
  ## To Find Resources To Show
    * How to fix Heteroskedasticity
