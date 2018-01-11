@@ -40,6 +40,8 @@ Links and references useful for data science.
    * [Machine Learning Regression of 911 Calls](http://machinelearningexp.com/machine-learning-regression-911-calls/)
    * [Instal IRKernel for Jupyter Notebooks](https://www.datacamp.com/community/blog/jupyter-notebook-r)
        * Best installation instructions I've found thus far.
+   * [Twitter Sentiment Analysis](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
+       * In-depth, easy-to-understand 4-part NLTK sentiment analysis tutorial.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
