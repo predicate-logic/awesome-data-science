@@ -14,6 +14,8 @@ Links and references useful for data science.
       * Finds a maximal subset of information carrying features in a data set.
    * [Featuretools](https://github.com/Featuretools/featuretools)
       * Automated feature engineering library.
+   * [Surprise](http://surpriselib.com/)
+      * Build and test recommendation systems with a variety of prebuilt algorithms.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
