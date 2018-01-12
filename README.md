@@ -25,6 +25,8 @@ Links and references useful for data science.
       * Example code on how to put together a web-based animated scrolling presentation.
    * [R Graphics / ggplot2 Tutorial](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
        * Overview of graphing options in R with a good tutorial on using `ggplot2`.
+   * [Facets](https://pair-code.github.io/facets/)
+       * Graphical to explore your data.
    
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
