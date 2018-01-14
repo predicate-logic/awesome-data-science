@@ -35,6 +35,9 @@ Links and references useful for data science.
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
       * User answered question site related to Statistics, Machine Learning, and Data Analytics.
+## References (R)
+    * [R Documentation](https://rdrr.io/)
+      * Nice documentation resource for popular R packages.
       
 ## How To (Python)
    * [Simulating Chutes & Ladders in Python](https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_162)
