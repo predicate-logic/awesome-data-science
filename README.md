@@ -51,6 +51,8 @@ Links and references useful for data science.
        * Best installation instructions I've found thus far.
    * [Twitter Sentiment Analysis](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
        * In-depth, easy-to-understand 4-part NLTK sentiment analysis tutorial.
+   * [Markov Chains From Scratch](http://www.johnwittenauer.net/markov-chains-from-scratch/)
+       * Easy to understand tutorial on coding a Trump Tweet generator using Markov Chains.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
