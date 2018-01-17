@@ -35,6 +35,7 @@ Links and references useful for data science.
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
       * User answered question site related to Statistics, Machine Learning, and Data Analytics.
+      
 ## References (R)
     * [R Documentation](https://rdrr.io/)
       * Nice documentation resource for popular R packages.
@@ -59,6 +60,7 @@ Links and references useful for data science.
        * One of the better tutorials of Linear Regression (with code).
    * [Gradient Descent](http://www.machinegurning.com/rstats/gradient-descent/)
        * Intuitive tutorial on Gradient Descent algorithm p(with code).
+   * [Select Optimal # of Topics for LDA](https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html)
        
 ## To Read / Categorize
    * [Understanding Empirical Bayes Estimation (Using Baseball Statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)
