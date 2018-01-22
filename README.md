@@ -35,12 +35,13 @@ Links and references useful for data science.
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
       * User answered question site related to Statistics, Machine Learning, and Data Analytics.
+   * [Statistics HowTo](http://www.statisticshowto.com/probability-and-statistics/)
+      * Simple video explainations of basic statistical concepts.  Very informative. 
       
 ## References (R)
    * [R Documentation](https://rdrr.io/)
       * Nice documentation resource for popular R packages.
-   * [Statistics HowTo](http://www.statisticshowto.com/probability-and-statistics/)
-      * Simple video explainations of basic statistical concepts.  Very informative.   
+  
       
 ## How To (Python)
    * [Simulating Chutes & Ladders in Python](https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_162)
@@ -56,6 +57,7 @@ Links and references useful for data science.
        * In-depth, easy-to-understand 4-part NLTK sentiment analysis tutorial.
    * [Markov Chains From Scratch](http://www.johnwittenauer.net/markov-chains-from-scratch/)
        * Easy to understand tutorial on coding a Trump Tweet generator using Markov Chains.
+   * [Random Forest In Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
