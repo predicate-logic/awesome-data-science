@@ -27,6 +27,8 @@ Links and references useful for data science.
        * Overview of graphing options in R with a good tutorial on using `ggplot2`.
    * [Facets](https://pair-code.github.io/facets/)
        * Graphical to explore your data.
+   * [Tableau's Make-over Monday](http://www.makeovermonday.co.uk/blog/)
+       * Blog (and data) for slick visualizations using Tableau.  "A weekly social data project".
    
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
@@ -65,6 +67,10 @@ Links and references useful for data science.
    * [Gradient Descent](http://www.machinegurning.com/rstats/gradient-descent/)
        * Intuitive tutorial on Gradient Descent algorithm p(with code).
    * [Select Optimal # of Topics for LDA](https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html)
+
+## Datasets
+   * [data.world](https://data.world/)
+       * Free sample data sets (requires registration).
        
 ## To Read / Categorize
    * [Understanding Empirical Bayes Estimation (Using Baseball Statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)
