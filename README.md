@@ -17,7 +17,9 @@ Links and references useful for data science.
    * [Surprise](http://surpriselib.com/)
       * Build and test recommendation systems with a variety of prebuilt algorithms.
    * [Snorkel](https://hazyresearch.github.io/snorkel/)
-      * Library to extract data from structured or "dark data".
+      * Library to extract data from structured or "dark data".  Includes references to worfklow/tools to augment the labeling process.
+   * [SpaCy](https://spacy.io/_
+      * Fast Natural Language Tool Kit (NLTK).
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
