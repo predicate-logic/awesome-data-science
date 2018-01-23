@@ -16,6 +16,8 @@ Links and references useful for data science.
       * Automated feature engineering library.
    * [Surprise](http://surpriselib.com/)
       * Build and test recommendation systems with a variety of prebuilt algorithms.
+   * [Snorkel](https://hazyresearch.github.io/snorkel/)
+      * Library to extract data from structured or "dark data".
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
