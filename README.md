@@ -71,7 +71,8 @@ Links and references useful for data science.
    * [Gradient Descent](http://www.machinegurning.com/rstats/gradient-descent/)
        * Intuitive tutorial on Gradient Descent algorithm p(with code).
    * [Select Optimal # of Topics for LDA](https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html)
-
+   * [Linear Regression By Hand](https://dsgazette.com/2018/01/10/linear-regression-by-hand/)
+   
 ## Datasets
    * [data.world](https://data.world/)
        * Free sample data sets (requires registration).
