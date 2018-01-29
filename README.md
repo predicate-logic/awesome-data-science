@@ -37,6 +37,8 @@ Links and references useful for data science.
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
       * Really great D3 presentation on the algorithms and data science process used at StitchFix.
+   * [On Average, You're Doing It Wrong](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
+      * Detailed analysis of arithmetic, geometric, and harmonic means, when to use them, and how, with examples.
 
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
