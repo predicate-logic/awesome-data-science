@@ -39,6 +39,8 @@ Links and references useful for data science.
       * Really great D3 presentation on the algorithms and data science process used at StitchFix.
    * [On Average, You're Doing It Wrong](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
       * Detailed analysis of arithmetic, geometric, and harmonic means, when to use them, and how, with examples.
+   * [Minikube & Spark Local Setup](http://blog.madhukaraphatak.com/categories/kubernetes-series/)
+      * Amazing tutorial on setting up Spark inside of a local Kubernetes cluster.
 
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
