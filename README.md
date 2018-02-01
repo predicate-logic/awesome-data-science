@@ -20,6 +20,8 @@ Links and references useful for data science.
       * Library to extract data from structured or "dark data".  Includes references to worfklow/tools to augment the labeling process.
    * [SpaCy](https://spacy.io/_)
       * Fast Natural Language Tool Kit (NLTK).
+   * [Voluptuous](https://github.com/alecthomas/voluptuous)
+      * Data validation library.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
