@@ -22,6 +22,8 @@ Links and references useful for data science.
       * Fast Natural Language Tool Kit (NLTK).
    * [Voluptuous](https://github.com/alecthomas/voluptuous)
       * Data validation library.
+   * [Lime](https://github.com/marcotcr/lime)
+       * Explain classifiers.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
