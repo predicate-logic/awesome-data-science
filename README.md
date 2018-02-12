@@ -47,8 +47,6 @@ Links and references useful for data science.
       * Amazing tutorial on setting up Spark inside of a local Kubernetes cluster.
    * [Statistical Significance](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
       * Good, simple overview of the core concepts of hypothesis testing.
-   * [Introduction to Python Ensembles](https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html)
-      * Detailed how-to on constructing and evaluating ensemble ML methods.
 
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
@@ -76,6 +74,8 @@ Links and references useful for data science.
    * [Markov Chains From Scratch](http://www.johnwittenauer.net/markov-chains-from-scratch/)
        * Easy to understand tutorial on coding a Trump Tweet generator using Markov Chains.
    * [Random Forest In Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+   * [Introduction to Python Ensembles](https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html)
+      * Detailed how-to on constructing and evaluating ensemble ML methods.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
