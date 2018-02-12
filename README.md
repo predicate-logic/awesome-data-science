@@ -47,6 +47,8 @@ Links and references useful for data science.
       * Amazing tutorial on setting up Spark inside of a local Kubernetes cluster.
    * [Statistical Significance](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
       * Good, simple overview of the core concepts of hypothesis testing.
+   * [Introduction to Python Ensembles](https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html)
+      * Detailed how-to on constructing and evaluating ensemble ML methods.
 
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
