@@ -37,6 +37,8 @@ Links and references useful for data science.
        * Graphical to explore your data.
    * [Tableau's Make-over Monday](http://www.makeovermonday.co.uk/blog/)
        * Blog (and data) for slick visualizations using Tableau.  "A weekly social data project".
+   * [R Base Graphics: An Idiot's Guide](http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
+       * Good overview of using R's base graphics plotting system.
    
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
