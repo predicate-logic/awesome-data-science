@@ -78,6 +78,7 @@ Links and references useful for data science.
    * [Random Forest In Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
    * [Introduction to Python Ensembles](https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html)
       * Detailed how-to on constructing and evaluating ensemble ML methods.
+   * [101 NumPy Excercises](https://www.machinelearningplus.com/101-numpy-exercises-python/)
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
