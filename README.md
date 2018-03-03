@@ -109,7 +109,7 @@ Links and references useful for data science.
    * [Deep Learning: From Image to Webpage](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
        * Learn how to write a Deep Learning model to code a webpage from a source image. 
    * [Kubernetes Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-   * [Creating a PostgreSQL Cluster using Helm](http://blog.kubernetes.io/2016/09/creating-postgresql-cluster-using-helm.html)
+   * [Installing PostgreSQL via Helm](https://medium.com/@nicdoye/installing-postgresql-via-helm-237e026453b1)
        
  ## To Find Resources To Show
    * How to fix Heteroskedasticity
