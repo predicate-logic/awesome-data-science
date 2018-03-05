@@ -79,6 +79,7 @@ Links and references useful for data science.
    * [Introduction to Python Ensembles](https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html)
       * Detailed how-to on constructing and evaluating ensemble ML methods.
    * [101 NumPy Excercises](https://www.machinelearningplus.com/101-numpy-exercises-python/)
+   * [Calculate PCA From Scratch In Python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
