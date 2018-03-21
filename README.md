@@ -55,6 +55,8 @@ Links and references useful for data science.
       * User answered question site related to Statistics, Machine Learning, and Data Analytics.
    * [Statistics HowTo](http://www.statisticshowto.com/probability-and-statistics/)
       * Simple video explainations of basic statistical concepts.  Very informative. 
+   * [Practical Guide To SQL Isolation](https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html)
+      * Most understandable and easy-to-understand guide to SQL Isolation levels I've seen.
       
 ## References (R)
    * [R Documentation](https://rdrr.io/)
