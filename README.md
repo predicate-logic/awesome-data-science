@@ -84,6 +84,7 @@ Links and references useful for data science.
    * [Calculate PCA From Scratch In Python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
    * [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
       * Basic ML algos implemened in Python/Jupyter notebooks.
+   * [How To Use HDFS In Python](https://www.uetke.com/blog/python/how-to-use-hdf5-files-in-python/)
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
