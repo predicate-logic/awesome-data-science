@@ -87,6 +87,8 @@ Links and references useful for data science.
    * [Machine Learning Basics](https://github.com/zotroneneis/machine_learning_basics)
       * Basic ML algos implemened in Python/Jupyter notebooks.
    * [How To Use HDFS In Python](https://www.uetke.com/blog/python/how-to-use-hdf5-files-in-python/)
+   * [ARIMA Forcasting](https://www.datasciencecentral.com/profiles/blogs/tutorial-forecasting-with-seasonal-arima)
+      * Detailed walkthrough of creating an ARIMA forecast in a notebook format.
        
 ## How To (R)
    * [Fundamentals of Linear Regression](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
