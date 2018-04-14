@@ -57,6 +57,8 @@ Links and references useful for data science.
       * Simple video explainations of basic statistical concepts.  Very informative. 
    * [Practical Guide To SQL Isolation](https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html)
       * Most understandable and easy-to-understand guide to SQL Isolation levels I've seen.
+   * [15 Types of Regression](https://www.listendata.com/2018/03/regression-analysis.html)
+      * Great resource.
       
 ## References (R)
    * [R Documentation](https://rdrr.io/)
