@@ -24,6 +24,8 @@ Links and references useful for data science.
       * Data validation library.
    * [Lime](https://github.com/marcotcr/lime)
        * Explain classifiers.
+   * [FeatureTools](https://docs.featuretools.com/index.html)
+       * Automated feature engineering.
 
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
