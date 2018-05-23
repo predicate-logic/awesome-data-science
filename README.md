@@ -51,6 +51,8 @@ Links and references useful for data science.
       * Amazing tutorial on setting up Spark inside of a local Kubernetes cluster.
    * [Statistical Significance](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
       * Good, simple overview of the core concepts of hypothesis testing.
+   * [Building Toy Neural Networks (Python)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+      * Very detailed (yet simple) walkthrough of two toy neural networks in Python.  Very educational.
 
 ## References
    * [Cross Validated](https://stats.stackexchange.com/)
