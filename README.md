@@ -63,6 +63,7 @@ Links and references useful for data science.
       * Most understandable and easy-to-understand guide to SQL Isolation levels I've seen.
    * [15 Types of Regression](https://www.listendata.com/2018/03/regression-analysis.html)
       * Great resource.
+   * [39 Machine Learning Resources](https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9)
       
 ## References (R)
    * [R Documentation](https://rdrr.io/)
