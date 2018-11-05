@@ -26,7 +26,14 @@ Links and references useful for data science.
        * Explain classifiers.
    * [FeatureTools](https://docs.featuretools.com/index.html)
        * Automated feature engineering.
-
+       
+## Notebooks (Python)
+   * [Parameters & More for Jupyter Notebooks](https://github.com/nteract/papermill)
+      * Parameterization and reproducability tools for Jupyter notebooks.  Used by Netflix.
+      
+   * [Pyodide](https://github.com/iodide-project/pyodide)
+      * Python and NumPy compiled into WebAssembly enabled notebook designed to for publishing.
+   
 ## Forecasting (Python)
    * [Forecasting Website Traffic using Facebook's Prophet](http://pbpython.com/prophet-overview.html)
    
