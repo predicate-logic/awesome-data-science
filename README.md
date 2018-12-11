@@ -115,6 +115,8 @@ Links and references useful for data science.
        * Free sample data sets (requires registration).
        
 ## To Read / Categorize
+   * [Practical AI Jupyter Notebooks](https://github.com/GokuMohandas/practicalAI/blob/master/README.md)
+      * Lots of example notebooks on a variety of ML topics.
    * [Understanding Empirical Bayes Estimation (Using Baseball Statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)
       * Using Bayesian priors to assist in estmiation of batting averages in R.
    * [Understanding Beta Distributions (Using Baseball Statistics)](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)
