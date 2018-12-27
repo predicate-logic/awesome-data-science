@@ -4,7 +4,9 @@ Links and references useful for data science.
 ## General / Introduction
    * [A Visual Introduction To Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
       * One of the slickest visual introductions to machine learning ever produced.
-
+   * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
+      * Great D3 visualization tutorial on the basics of statistics.
+      
 ## Libraries (Python)
    * [Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
       * The current standard for data frames in Python.   
