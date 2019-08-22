@@ -28,6 +28,8 @@ Links and references useful for data science.
        * Explain classifiers.
    * [FeatureTools](https://docs.featuretools.com/index.html)
        * Automated feature engineering.
+   * [Snorkel](https://www.snorkel.org/)
+       * Generate training/sample data.
        
 ## Notebooks (Python)
    * [Parameters & More for Jupyter Notebooks](https://github.com/nteract/papermill)
