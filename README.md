@@ -52,6 +52,8 @@ Links and references useful for data science.
        * Blog (and data) for slick visualizations using Tableau.  "A weekly social data project".
    * [R Base Graphics: An Idiot's Guide](http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
        * Good overview of using R's base graphics plotting system.
+   * [Top 50 Matplotlib Visualizations Cookbook](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+       * Examples and explainations of use cases for 50 Matplotlib visualizations.
    
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
