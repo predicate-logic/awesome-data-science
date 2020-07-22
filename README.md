@@ -54,6 +54,8 @@ Links and references useful for data science.
        * Good overview of using R's base graphics plotting system.
    * [Top 50 Matplotlib Visualizations Cookbook](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
        * Examples and explainations of use cases for 50 Matplotlib visualizations.
+   * [Data Visualization Catalog](https://datavizcatalogue.com/index.html)
+       * Catalog of useful visualizations with examples and cross-referenced by utility type.
    
 ## Blog Posts
    * [Stitchfix Algorithms Tour](http://algorithms-tour.stitchfix.com/#data-platform)
